@@ -1,0 +1,14 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\obj\Debug\E13_Determinar_si_C_en_S.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\obj\Debug\E13_Determinar_si_C_en_S.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\obj\Debug\13_Determinar_si_C_en_S.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\13_Determinar_si_C_en_S\13_Determinar_si_C_en_S\obj\Debug\13_Determinar_si_C_en_S.pdb
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.exe
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\bin\Debug\13_Determinar_si_C_en_S.pdb
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\obj\Debug\E13_Determinar_si_C_en_S.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\obj\Debug\E13_Determinar_si_C_en_S.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\obj\Debug\13_Determinar_si_C_en_S.exe
+C:\Users\Fam RN\source\Ejercicios C\E13_Determinar_si_C_en_S\E13_Determinar_si_C_en_S\obj\Debug\13_Determinar_si_C_en_S.pdb
